@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WebBrowser</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="countries">
+        <item>INDIA</item>
+        <item>AMERICA</item>
+        <item>AFRICA</item>
+        <item>CHINA</item>
+        <item>PAKISTAN</item>
+        <item>RUSSIA</item>
+        <item>KOREA</item>
+        <item>INDONESIA</item>
+        <item>HUNGARY</item>
+    </string-array>
+</resources>
